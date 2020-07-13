@@ -1,0 +1,35 @@
+2020-07-13 16:14:26.747  INFO 16408 --- [restartedMain] com.lhstudy.BlogApplication              : Starting BlogApplication on DESKTOP-MO94UJR with PID 16408 (C:\Users\lh\Desktop\mycode\blog\target\classes started by lh in C:\Users\lh\Desktop\mycode\blog)
+2020-07-13 16:14:26.750 DEBUG 16408 --- [restartedMain] com.lhstudy.BlogApplication              : Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-07-13 16:14:26.751  INFO 16408 --- [restartedMain] com.lhstudy.BlogApplication              : The following profiles are active: pro
+2020-07-13 16:14:26.992  INFO 16408 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-07-13 16:14:26.993  INFO 16408 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-07-13 16:14:29.180  WARN 16408 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.lhstudy]' package. Please check your configuration.
+2020-07-13 16:14:30.659  INFO 16408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-07-13 16:14:30.676  INFO 16408 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-13 16:14:30.677  INFO 16408 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-07-13 16:14:30.973  INFO 16408 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-13 16:14:30.975  INFO 16408 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3979 ms
+2020-07-13 16:14:31.899  INFO 16408 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-13 16:14:32.106  WARN 16408 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-07-13 16:14:32.459  INFO 16408 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-13 16:14:32.548  INFO 16408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2020-07-13 16:14:32.554  INFO 16408 --- [restartedMain] com.lhstudy.BlogApplication              : Started BlogApplication in 7.052 seconds (JVM running for 10.978)
+2020-07-13 16:14:40.480  INFO 16408 --- [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-13 16:14:40.481  INFO 16408 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-13 16:14:40.492  INFO 16408 --- [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2020-07-13 16:24:55.271  INFO 17488 --- [restartedMain] com.lhstudy.BlogApplication              : Starting BlogApplication on DESKTOP-MO94UJR with PID 17488 (C:\Users\lh\Desktop\mycode\blog\target\classes started by lh in C:\Users\lh\Desktop\mycode\blog)
+2020-07-13 16:24:55.276 DEBUG 17488 --- [restartedMain] com.lhstudy.BlogApplication              : Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-07-13 16:24:55.276  INFO 17488 --- [restartedMain] com.lhstudy.BlogApplication              : The following profiles are active: pro
+2020-07-13 16:24:55.602  INFO 17488 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-07-13 16:24:55.602  INFO 17488 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-07-13 16:24:57.982  WARN 17488 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.lhstudy]' package. Please check your configuration.
+2020-07-13 16:24:58.920  INFO 17488 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-07-13 16:24:58.942  INFO 17488 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-13 16:24:58.943  INFO 17488 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-07-13 16:24:59.118  INFO 17488 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-13 16:24:59.119  INFO 17488 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3517 ms
+2020-07-13 16:24:59.992  INFO 17488 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-13 16:25:00.119  INFO 17488 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-07-13 16:25:01.823  INFO 17488 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-13 16:25:01.975  INFO 17488 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2020-07-13 16:25:01.984  INFO 17488 --- [restartedMain] com.lhstudy.BlogApplication              : Started BlogApplication in 8.145 seconds (JVM running for 11.505)
